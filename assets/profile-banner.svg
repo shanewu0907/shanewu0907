@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Shane profile banner">
+  <rect x="18" y="18" width="1164" height="184" rx="0" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+  <line x1="80" y1="64" x2="1120" y2="64" stroke="#111111" stroke-width="1.5" opacity="0.45"/>
+  <line x1="80" y1="156" x2="1120" y2="156" stroke="#111111" stroke-width="1.5" opacity="0.45"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700" fill="#111111" letter-spacing="0">Shane</text>
+  <text x="600" y="148" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="21" font-weight="500" fill="#111111">Software Builder | AI | Computer Vision | Web Apps | Automation</text>
+  <circle cx="83" cy="110" r="5" fill="#111111"/>
+  <circle cx="1117" cy="110" r="5" fill="#111111"/>
+</svg>
