@@ -11,26 +11,6 @@ Taiwan · NCNU · GitHub: `shanewu0907`
 
 </div>
 
-## About
-
-Hi, I'm Shane. I build practical software projects across AI, computer vision, automation, Discord bots, and web applications.
-
-My work focuses on turning experiments into usable tools, with attention to real-time workflows, desktop interfaces, persistent data, and deployment-ready project structure.
-
-I also use AI-assisted development tools such as ChatGPT, Codex, and Claude for prototyping, debugging, code review, and workflow acceleration.
-
-## Focus Areas
-
-- AI-assisted software development and automation workflows
-- YOLO Pose human keypoint detection and stick-figure visualization
-- Real-time screen capture, video analysis, and screenshot-based positioning
-- PyQt desktop tools for model selection, capture preview, and experiment control
-- MediaPipe Hands 21-point hand landmark detection
-- HSV color tracking for comparison and rule-based detection workflows
-- LocateAnything image grounding for screenshot and local image positioning
-- Discord bot systems with commands, persistent data, scheduled jobs, and game logic
-- Web applications with modern frontend, realtime data, and deployment-oriented structure
-
 ## Tech Stack
 
 <p>
@@ -52,6 +32,26 @@ I also use AI-assisted development tools such as ChatGPT, Codex, and Claude for 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+## About
+
+Hi, I'm Shane. I build practical software projects across AI, computer vision, automation, Discord bots, and web applications.
+
+My work focuses on turning experiments into usable tools, with attention to real-time workflows, desktop interfaces, persistent data, and deployment-ready project structure.
+
+I also use AI-assisted development tools such as ChatGPT, Codex, and Claude for prototyping, debugging, code review, and workflow acceleration.
+
+## Focus Areas
+
+- AI-assisted software development and automation workflows
+- YOLO Pose human keypoint detection and stick-figure visualization
+- Real-time screen capture, video analysis, and screenshot-based positioning
+- PyQt desktop tools for model selection, capture preview, and experiment control
+- MediaPipe Hands 21-point hand landmark detection
+- HSV color tracking for comparison and rule-based detection workflows
+- LocateAnything image grounding for screenshot and local image positioning
+- Discord bot systems with commands, persistent data, scheduled jobs, and game logic
+- Web applications with modern frontend, realtime data, and deployment-oriented structure
 
 ## Featured Work
 
